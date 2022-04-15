@@ -1,3 +1,1 @@
-```
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Francisco+Javier+Gallego;I+am+currently+studying+Bachelors+of+Mathematics+and+Computer+Science)](https://git.io/typing-svg)
-```
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=450&lines=Hello,+I+am+Francisco+Javier+Gallego;Student+of+Mathematics+and+CS)](https://git.io/typing-svg)
