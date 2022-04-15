@@ -2,7 +2,7 @@
 
 ------
 
-- :books: **I'm currently a 4th year Student of Mathematics and Computer Science **
+- :books: **I'm currently a 4th year Student of Mathematics and Computer Science.**
 - **Currently learning some Machine Learning and Deep Learning stuff :seedling:**
 - **:computer: Kaggle 2x Expert (Notebook and Discussions).** [Kaggle Profile](https://www.kaggle.com/javigallego)
 
