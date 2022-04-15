@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?&center=true&color=1BB86D&width=700&lines=Welcome+to+my+Github+Profile;I+am+Francisco+Javier+Gallego;Bachelors+student+of+Mathematics+and+CS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?&center=true&color=1BB86D&width=940&lines=Welcome+to+my+Github+Profile;I+am+Francisco+Javier+Gallego;Bachelors+student+of+Mathematics+and+CS)](https://git.io/typing-svg)
 
 ------
 
