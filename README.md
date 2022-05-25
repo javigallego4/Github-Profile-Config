@@ -2,7 +2,13 @@
 
 ------
 
-Bachelor student of **Mathematics and Computer Science** at University of Granada, Spain. Apart from that, and  among other things, I dedicate my spare time to develop various projects related to Machine Learning. Moreover, I'm participating in several **Data Science competitions**. They are based on real-world problems from different fields. Most of what I've told previously is publicly available in my **Kaggle Profile**.
+### 🎓 Currently studying ...
+
+- Bachelor in **Mathematics and Computer Science** at University of Granada, Spain. 
+
+>  Apart from that, and  among other things, I dedicate my spare time to develop various projects related to Machine Learning. Moreover, I'm participating in some **Data Science competitions**. They are based on real-world problems from different fields. Most of what I've told previously is publicly available in my [Kaggle Profile](https://www.kaggle.com/javigallego).
+
+### :mag: Contact me on ... 
 
 [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/javigallego)
 
