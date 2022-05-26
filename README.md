@@ -10,7 +10,7 @@
 
 ### :mag: Contact me on ... 
 
-[![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/javigallego)
+ [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-javier-gallego-menor-12297923b/)  [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/javigallego)
 
 ### 💬 My main interests are / 🌱 I’m currently learning ...
 
